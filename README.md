@@ -10,7 +10,7 @@ Para compilarlo, en una terminal se utiliza
 
 Para correr el server, se utiliza el comando
 
-	$ sudo ./suma_server
+	$ sudo ./bitacora_server
 
 Finalmente, en una nueva terminal (que será el cliente), se pueden utilizar dos comandos, dependiendo si se desea agregar un nombre o si se quiere buscar un nombre:
 
