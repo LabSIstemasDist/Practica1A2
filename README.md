@@ -1,6 +1,6 @@
 #Práctica 2 del laboratorio de Sistemas distribuidos
 
-Aplicación con arquitectura MVC de una bitácora que agrega un nombre y la fecha en la que fue agregado a un archivo de texto, y busca en dicho archivo de texto el número de veces que aparece dicho nombre.
+Aplicación con arquitectura cliente-servidor de una bitácora que agrega un nombre y la fecha en la que fue agregado a un archivo de texto, y busca en dicho archivo de texto el número de veces que aparece dicho nombre.
 
 Esta aplicación fue hecha utiizando el framework RPCGen.
 
